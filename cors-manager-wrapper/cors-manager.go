@@ -1,4 +1,4 @@
-package corsmanagermw
+package corsmanagerwrapper
 
 import (
 	"net/http"

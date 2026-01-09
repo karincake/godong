@@ -1,4 +1,4 @@
-package handlerloggermw
+package handlerloggerwrapper
 
 import (
 	"encoding/json"
